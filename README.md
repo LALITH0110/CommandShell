@@ -43,3 +43,9 @@ This project implements a simple Unix shell from scratch, designed to handle job
    ```bash
    git clone https://github.com/LALITH0110/CommandShell
    cd <repository-directory>
+2. Compile the shell program:
+   ```bash
+   make
+3. Run the shell:
+   ```bash
+   ./tsh
